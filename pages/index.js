@@ -7,7 +7,7 @@ export default function Home() {
     <div className='bg-black h-screen overflow-hidden'>
       <Head>
         <title>MelodyV</title>
-        {/* <link rel="icon" href="/favicon.ico"/> */}
+        <link rel="icon" href="/favicon.ico"/>
       </Head>
       <main className="flex">
         <Sidebar />
